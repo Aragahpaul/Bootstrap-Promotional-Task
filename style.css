@@ -9,7 +9,7 @@ body {
 }
 
 .hero-section {
-  background: url("/images/bg-img-2.jpg") no-repeat center center;
+  background: url("images/bg-img-2.jpg") no-repeat center center;
   background-size: cover;
   color: #fff;
   padding: 100px 0;
